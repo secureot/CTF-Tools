@@ -5,12 +5,12 @@ Bienvenido al repositorio de la colección completa de herramientas y recursos p
 ## Tabla de contenidos
 
 - [Introduccion](#introduccion)
-- [Useful Tools](#useful-tools)
+- [Herramientas útiles](#Herramientas-útiles)
 
 ## Introduccion
 
 Este repositorio se creó para tener a mano una colección de herramientas, hojas de trucos y recursos para personas interesadas en las competencias CTF del SecureOT Space.
 
-## Useful CTF Tools Websites
+## Herramientas útiles
 
 - [Servidor TFTP mínimalista en C](https://github.com/ideawu/tftpx)
