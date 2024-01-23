@@ -6,6 +6,7 @@ Bienvenido al repositorio de la colección completa de herramientas y recursos p
 
 - [Introduccion](#introduccion)
 - [Herramientas útiles](#Herramientas-útiles)
+- [Fragmentos de código](Codigos.md)
 
 ## Introduccion
 
