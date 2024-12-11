@@ -1,0 +1,3 @@
+[submodule "PLC/SIEMENS/LOGO/LOGO_BRUTE_FORCE_BUNBLE"]
+	path = PLC/SIEMENS/LOGO/LOGO_BRUTE_FORCE_BUNBLE
+	url = https://github.com/biero-el-corridor/LOGO_BRUTE_FORCE_BUNBLE
